@@ -1,5 +1,3 @@
-# hbtlucas
-
 ## Bem-vindo
 
 Aqui você encontrará uma coleção de projetos e contribuições. Sinta-se à vontade para explorar, colaborar ou entrar em contato.
