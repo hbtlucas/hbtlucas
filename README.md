@@ -13,6 +13,4 @@ Aqui você encontrará uma coleção de projetos e contribuições. Sinta-se à 
 - 📧 Email: [herbertlucas85@gmail.com]
 - 🔗 LinkedIn: [Herbert Lucas](https://www.linkedin.com/in/herbert-lucas85)
 
-## Agradecimentos
-
 Obrigado por visitar o meu perfil.
