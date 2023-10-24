@@ -4,7 +4,7 @@ Aqui você encontrará uma coleção de projetos e contribuições. Sinta-se à 
 
 ## Sobre Mim
 
-- 👨‍💻 Desenvolvedor main [PHP].
+- 👨‍💻 Desenvolvedor Fullstack.
 - 🌍 Apaixonado por aprender e compartilhar conhecimento.
 - 📚 Cursando Sistemas de Informação.
 
