@@ -1,6 +1,6 @@
 ## Bem-vindo
 
-Aqui você encontrará uma coleção de projetos e contribuições. Sinta-se à vontade para explorar, colaborar ou entrar em contato.
+Aqui você encontrará uma coleção de projetos de estudos e contribuições. Sinta-se à vontade para explorar, colaborar ou entrar em contato.
 
 ## Sobre Mim
 
