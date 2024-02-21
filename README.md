@@ -4,13 +4,10 @@ Aqui você encontrará uma coleção de projetos de estudos e contribuições. S
 
 ## Sobre Mim
 
-- 👨‍💻 Desenvolvedor Fullstack.
+- 👨‍💻 Desenvolvedor de Software.
 - 🌍 Apaixonado por aprender e compartilhar conhecimento.
-- 📚 Cursando Sistemas de Informação.
 
 ## Contato
 
 - 📧 Email: [herbertlucas85@gmail.com]
 - 🔗 LinkedIn: [Herbert Lucas](https://www.linkedin.com/in/herbert-lucas85)
-
-Obrigado por visitar o meu perfil.
