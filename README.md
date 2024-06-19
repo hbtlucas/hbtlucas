@@ -3,7 +3,8 @@
 #### Sobre Mim
 
 -  Desenvolvedor de Software
--  Estudante de Sistemas de informação
+-  Cursando Sistemas de informação
+-  Tenho um forte interesse pela àrea de cibersegurança, testes de penetração e desenvolvimento web
 -  Email: herbertlucas85@gmail.com
 -  LinkedIn: [Herbert Lucas](https://www.linkedin.com/in/herbert-lucas85)
   
