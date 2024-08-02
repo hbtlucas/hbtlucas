@@ -4,7 +4,7 @@
 
 -  Desenvolvedor de Software
 -  Cursando Sistemas de informação
--  Tenho um forte interesse pela área de cibersegurança, testes de penetração e desenvolvimento web
+-  Tenho um forte interesse pela área de cibersegurança e desenvolvimento web
 -  Email: herbertlucas85@gmail.com
 -  LinkedIn: [Herbert Lucas](https://www.linkedin.com/in/herbert-lucas85)
   
